@@ -1,0 +1,114 @@
+[
+  {
+    "id": "101",
+    "text": "Who was the first President of the USA?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "correctAnswerIndex": 0,
+    "categoryId": "1"
+  },
+  {
+    "id": "102",
+    "text": "In which year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correctAnswerIndex": 2,
+    "categoryId": "1"
+  },
+  {
+    "id": "103",
+    "text": "Which empire was ruled by Julius Caesar?",
+    "options": ["Greek", "Roman", "Ottoman", "Persian"],
+    "correctAnswerIndex": 1,
+    "categoryId": "1"
+  },
+  {
+    "id": "104",
+    "text": "The Great Wall is located in which country?",
+    "options": ["Japan", "China", "India", "Mongolia"],
+    "correctAnswerIndex": 1,
+    "categoryId": "1"
+  },
+  {
+    "id": "201",
+    "text": "What is the chemical symbol for water?",
+    "options": ["H2", "O2", "H2O", "HO"],
+    "correctAnswerIndex": 2,
+    "categoryId": "2"
+  },
+  {
+    "id": "202",
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswerIndex": 1,
+    "categoryId": "2"
+  },
+  {
+    "id": "203",
+    "text": "What is the speed of light?",
+    "options": ["300k km/s", "150k km/s", "500k km/s", "1m km/s"],
+    "correctAnswerIndex": 0,
+    "categoryId": "2"
+  },
+  {
+    "id": "204",
+    "text": "What is the hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctAnswerIndex": 2,
+    "categoryId": "2"
+  },
+  {
+    "id": "301",
+    "text": "How many players are in a soccer team?",
+    "options": ["10", "11", "12", "9"],
+    "correctAnswerIndex": 1,
+    "categoryId": "3"
+  },
+  {
+    "id": "302",
+    "text": "Which country won the first FIFA World Cup?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Germany"],
+    "correctAnswerIndex": 2,
+    "categoryId": "3"
+  },
+  {
+    "id": "303",
+    "text": "How long is a marathon in kilometers?",
+    "options": ["42.195", "40.5", "45", "38.2"],
+    "correctAnswerIndex": 0,
+    "categoryId": "3"
+  },
+  {
+    "id": "304",
+    "text": "In which sport is 'love' a score?",
+    "options": ["Cricket", "Tennis", "Golf", "Rugby"],
+    "correctAnswerIndex": 1,
+    "categoryId": "3"
+  },
+  {
+    "id": "401",
+    "text": "Who is known as the King of Pop?",
+    "options": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
+    "correctAnswerIndex": 1,
+    "categoryId": "4"
+  },
+  {
+    "id": "402",
+    "text": "Which instrument has 88 keys?",
+    "options": ["Guitar", "Violin", "Piano", "Flute"],
+    "correctAnswerIndex": 2,
+    "categoryId": "4"
+  },
+  {
+    "id": "403",
+    "text": "Who composed the 'Fifth Symphony'?",
+    "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+    "correctAnswerIndex": 1,
+    "categoryId": "4"
+  },
+  {
+    "id": "404",
+    "text": "Which band released 'The Dark Side of the Moon'?",
+    "options": ["The Beatles", "Led Zeppelin", "Pink Floyd", "The Who"],
+    "correctAnswerIndex": 2,
+    "categoryId": "4"
+  }
+]

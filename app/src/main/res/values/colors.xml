@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quiz_primary">#4353FF</color>
+    <color name="quiz_background">#FFF6D9</color>
+    <color name="quiz_surface">#FFFFFF</color>
+    <color name="quiz_text">#1A1B41</color>
+    <color name="quiz_accent">#FF3366</color>
+    <color name="quiz_success">#00D26A</color>
+    <color name="quiz_warning">#FFB020</color>
+    <color name="quiz_muted">#9CA3AF</color>
+
+    <!-- Keeping these for compatibility with generated code if any -->
+    <color name="purple_200">#4353FF</color>
+    <color name="purple_500">#4353FF</color>
+    <color name="purple_700">#1A1B41</color>
+    <color name="teal_200">#00D26A</color>
+    <color name="teal_700">#00D26A</color>
+    <color name="black">#1A1B41</color>
+    <color name="white">#FFFFFF</color>
+</resources>

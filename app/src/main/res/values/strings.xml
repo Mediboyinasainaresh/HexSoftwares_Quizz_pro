@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz Pro</string>
+    <string name="choose_category">Choose a Category</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="your_best_score">Your Best Score</string>
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="your_score">Your Score</string>
+    <string name="back_to_categories">Back to Categories</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="question_progress">Question %1$d/%2$d</string>
+    <string name="timer_text">Time: %1$ds</string>
+    <string name="lives_text">Lives: %1$d</string>
+    <string name="out_of_time">Out of time!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="try_again">Try Again</string>
+</resources>
